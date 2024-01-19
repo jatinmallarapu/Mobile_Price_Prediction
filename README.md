@@ -2,7 +2,8 @@
 
 ## Project Overview:
 
-## Aim: The project focuses on building a classification model to predict mobile phone prices based on specific specifications.
+## Aim: 
+The project focuses on building a classification model to predict mobile phone prices based on specific specifications.
 
 ## Models Used:
 
